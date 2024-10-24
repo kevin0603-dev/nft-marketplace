@@ -1,6 +1,6 @@
 #  NFT Marketplace
 
-This is a fullstack DApp NFT Marketplace built as a study project to learn more about blockchain and smart contract development.  
+This is a fullstack DApp NFT Marketplace built under the purpose of secure smart contract programming.  
 Made with NodeJS, Hardhat, Solidity, ReactJS, NextJS and Vercel.
 
 # Market basic actions
